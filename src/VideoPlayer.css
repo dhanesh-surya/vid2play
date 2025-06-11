@@ -53,7 +53,7 @@ video {
   justify-content: center;
 }
 .controls input[type="range"] {
-  accent-color: #646cff;
+  accent-color: #fff;
   width: 120px;
 }
 .controls span {
